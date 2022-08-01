@@ -19,22 +19,22 @@ App5Path=
 
 --- Game Variables ---
 Game1Path=
-Game1Image=C:\Users\Michael\Documents\Rainmeter\Skins\bert\@Resources\Images\valorant.jpg
+Game1Image=C:\Users\Michael\Documents\Rainmeter\Skins\bert\@Resources\Images\generic.jpg
 
 Game2Path=
-Game2Image=
+Game2Image=C:\Users\Michael\Documents\Rainmeter\Skins\bert\@Resources\Images\generic.jpg
 
 Game3Path=
-Game3Image=
+Game3Image=C:\Users\Michael\Documents\Rainmeter\Skins\bert\@Resources\Images\generic.jpg
 
 Game4Path=
-Game4Image=
+Game4Image=C:\Users\Michael\Documents\Rainmeter\Skins\bert\@Resources\Images\generic.jpg
 
 Game5Path=
-Game5Image=
+Game5Image=C:\Users\Michael\Documents\Rainmeter\Skins\bert\@Resources\Images\generic.jpg
 
 Game6Path=
-Game6Image=
+Game6Image=C:\Users\Michael\Documents\Rainmeter\Skins\bert\@Resources\Images\generic.jpg
 
 Game7Path=
 Game7Image=
