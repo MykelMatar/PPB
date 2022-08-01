@@ -8,8 +8,9 @@ Font=Anka/Coder
 
 ## NOTE TO USERS: If the filepath does not contain any quotation marks, input the filepath like so: "filepath"
 ## so if the filepath already has quotes, it would look like this: ""C://path""
+
 --- Application Variables ---
-App1Path="C:\Users\Michael\AppData\Local\Discord\Update.exe --processStart Discord.exe"
+App1Path=
 App2Path=
 App3Path=
 App4Path=
@@ -35,15 +36,6 @@ Game5Image=C:\Users\Michael\Documents\Rainmeter\Skins\bert\@Resources\Images\gen
 
 Game6Path=
 Game6Image=C:\Users\Michael\Documents\Rainmeter\Skins\bert\@Resources\Images\generic.jpg
-
-Game7Path=
-Game7Image=
-
-Game8Path=
-Game8Image=
-
-Game9Path=
-Game9Image=
 
 
 --- Colors ---
