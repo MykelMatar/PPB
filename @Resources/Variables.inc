@@ -19,7 +19,7 @@ App5Path=
 
 --- Game Variables ---
 Game1Path=
-Game1Image=C:\Users\Michael\Documents\Rainmeter\Skins\bert\@Resources\Images\minecraft2.jpg
+Game1Image=C:\Users\Michael\Documents\Rainmeter\Skins\bert\@Resources\Images\valorant.jpg
 
 Game2Path=
 Game2Image=
