@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a8c6bd1-4337-45d7-b1d8-5d5a1dddb55b" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/@Resources/Variables.inc" beforeDir="false" afterPath="$PROJECT_DIR$/@Resources/Variables.inc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CpuInfo/CpuInfo.ini" beforeDir="false" afterPath="$PROJECT_DIR$/CpuInfo/CpuInfo.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameBar/Games.ini" beforeDir="false" afterPath="$PROJECT_DIR$/GameBar/Games.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameBarOptions/GameBarOptions.ini" beforeDir="false" afterPath="$PROJECT_DIR$/GameBarOptions/GameBarOptions.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bert.ini" beforeDir="false" afterPath="$PROJECT_DIR$/bert.ini" afterDir="false" />
-    </list>
+    <list default="true" id="6a8c6bd1-4337-45d7-b1d8-5d5a1dddb55b" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,8 +40,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Michael\Documents\Rainmeter\Skins\bert" />
       <recent name="C:\Users\Michael\Documents\Rainmeter\Skins\bert\GameBar" />
+      <recent name="C:\Users\Michael\Documents\Rainmeter\Skins\bert\ApplicationBar" />
+      <recent name="C:\Users\Michael\Documents\Rainmeter\Skins\bert" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,6 +57,8 @@
       <workItem from="1659249307245" duration="5005000" />
       <workItem from="1659286617495" duration="19569000" />
       <workItem from="1659322041466" duration="3142000" />
+      <workItem from="1659374994492" duration="13874000" />
+      <workItem from="1659487024528" duration="13746000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1659227434416</created>
