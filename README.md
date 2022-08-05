@@ -3,8 +3,6 @@
 This skin has frosted glass backgrounds with customizable gradient colors.
 The default colors are Pink, Purple, and Blue (hence the name) and were inspired by Rubik27's Blue/Pink style honeycomb icons.
 
-<img src="https://github.com/MykelMatar/PPB/blob/main/%40Resources/DemoImages/FullSuite.png" width="100%" align="center"></img>
-
 ## Features + Images
 
 <img src="https://github.com/MykelMatar/PPB/blob/main/%40Resources/DemoImages/Clock.png" width="20%" align="right"></img>
@@ -17,6 +15,7 @@ The default colors are Pink, Purple, and Blue (hence the name) and were inspired
 
   
 - Fully customizable Game bar that can display 6 games
+  <img src="https://github.com/MykelMatar/PPB/blob/main/%40Resources/DemoImages/GameBar2.png" width="20%" align="right"></img>
   <img src="https://github.com/MykelMatar/PPB/blob/main/%40Resources/DemoImages/GameBar.png" width="20%" align="right"></img>
   - hovering over games displays a nice background image :)
   - any and all background images can be added by you, make sure they are .jpg format
