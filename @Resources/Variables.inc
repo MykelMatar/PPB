@@ -21,7 +21,7 @@ mouseOver=140,140,140
 ## so if the filepath already has quotes, it would look like this: ""C://path""
 
 --- Application Variables ---
-App1Path=
+App1Path="brave.exe"
 App1Icon=#@#Icons\app.png
 App1Color=26,206,223
 
@@ -66,22 +66,34 @@ App10Color=235,99,255
 
 --- Game Variables ---
 Game1Path=
+Game1Icon=#@#Icons\app.png
 Game1Image=#@#Images\generic.jpg
+Game1Color=26,206,223
 
 Game2Path=
+Game2Icon=#@#Icons\app.png
 Game2Image=#@#Images\generic.jpg
+Game2Color=56,181,273
 
 Game3Path=
+Game3Icon=#@#Icons\app.png
 Game3Image=#@#Images\generic.jpg
+Game3Color=115,130,372
 
 Game4Path=
+Game4Icon=#@#Icons\app.png
 Game4Image=#@#Images\generic.jpg
+Game4Color=56,181,273
 
 Game5Path=
+Game5Icon=#@#Icons\app.png
 Game5Image=#@#Images\generic.jpg
+Game5Color=115,130,372
 
 Game6Path=
+Game6Icon=#@#Icons\app.png
 Game6Image=#@#Images\generic.jpg
+Game6Color=196,101,326
 
 
 --- Storage Drive Variables
