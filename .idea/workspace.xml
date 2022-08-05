@@ -32,9 +32,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Michael/Documents/Rainmeter/Skins/bert&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Michael/Documents/Rainmeter/Skins/PPB&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -58,7 +58,9 @@
       <workItem from="1659286617495" duration="19569000" />
       <workItem from="1659322041466" duration="3142000" />
       <workItem from="1659374994492" duration="13874000" />
-      <workItem from="1659487024528" duration="13746000" />
+      <workItem from="1659487024528" duration="14090000" />
+      <workItem from="1659659578674" duration="5631000" />
+      <workItem from="1659667816942" duration="14063000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1659227434416</created>
