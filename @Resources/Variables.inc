@@ -4,8 +4,7 @@ Author=Dogbert
 Version=0.0.1
 
 [Variables]
-Font=metropolis
-;Font=Anka/Coder
+Font=Open Sans SemiBold
 
 
 --- Colors ---
@@ -63,6 +62,12 @@ App10Color=235,99,255
 
 
 ## NOTE TO USERS: ex filepath for Valorant: ""D:\Games\Riot Games\Riot Client\RiotClientServices.exe" --launch-product=valorant --launch-patchline=live" ##
+
+## For XBOX app games:
+##Press Win + R to open the run prompt, paste: "shell:AppsFolder", it will open a file explorer window, 
+##find the game or program you want to make a shortcut for, 
+##right-click it then press Create Shortcut, 
+##It will prompt you saying it needs to be made on the desktop, hit yes then you're done :) ##
 
 --- Game Variables ---
 Game1Path=
