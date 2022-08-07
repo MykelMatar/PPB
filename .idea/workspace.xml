@@ -2,22 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a8c6bd1-4337-45d7-b1d8-5d5a1dddb55b" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/RecycleBin/RecycleBin.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SysInfo/SysInfoOptions/SysInfoOptions.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Welcome/Welcome.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/@Resources/Fonts/AnkaCoder-r.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/@Resources/Fonts/MetropolisPersonalUseRegular-nR5LY.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/@Resources/Icons/IconsBP/histogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/@Resources/Icons/IconsBP/histogram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/@Resources/Icons/IconsBP/progressbar.png" beforeDir="false" afterPath="$PROJECT_DIR$/@Resources/Icons/IconsBP/progressbar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/@Resources/Variables.inc" beforeDir="false" afterPath="$PROJECT_DIR$/@Resources/Variables.inc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ApplicationBar/ApplicationOptions/ApplicationOptions.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationBar/ApplicationOptions/ApplicationOptions.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ApplicationBar/Applications.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ApplicationBar/Applications.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ColorSettings/ColorSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/ColorSettings/ColorSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameBar/GameBarOptions/GameBarOptions.ini" beforeDir="false" afterPath="$PROJECT_DIR$/GameBar/GameBarOptions/GameBarOptions.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameBar/Games.ini" beforeDir="false" afterPath="$PROJECT_DIR$/GameBar/Games.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PPB.ini" beforeDir="false" afterPath="$PROJECT_DIR$/PPB.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecycleBin/RecycleBin.ini" beforeDir="false" afterPath="$PROJECT_DIR$/RecycleBin/RecycleBin.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SysInfo/SysInfo.ini" beforeDir="false" afterPath="$PROJECT_DIR$/SysInfo/SysInfo.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SysInfo/SysInfoOptions/SysInfoOptions.ini" beforeDir="false" afterPath="$PROJECT_DIR$/SysInfo/SysInfoOptions/SysInfoOptions.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Welcome/Welcome.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Welcome/Welcome.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +84,7 @@
       <workItem from="1659749972665" duration="203000" />
       <workItem from="1659752461242" duration="82000" />
       <workItem from="1659752789906" duration="929000" />
-      <workItem from="1659809523043" duration="19196000" />
+      <workItem from="1659809523043" duration="20151000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1659227434416</created>
